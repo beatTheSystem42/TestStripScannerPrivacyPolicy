@@ -1,4 +1,4 @@
-# TestStripScannerPrivacyPolicy
+# Test Strip Scanner Privacy Policy
 
 Privacy Policy for iOS app Test Strip Scanner
 
